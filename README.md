@@ -1,24 +1,23 @@
-### Olá! Eu sou Jodair Neves 👋
-<br/>
+## Olá, tudo bem? 👋
 
+Eu sou Jodair, Analista de Infraestrutura e estou reaprendendo a programar com a finalidade de me tornar um desenvolvedor Full-Stack e migrar para a área de programação.<br/>
 
-### Como entrar em contato comigo 📫
-<div> 
-  <a href="mailto:jodair.neves@gmail.com" target="_blank">
-        <img align="center" alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/jodair-neves-55268017b" target="_blank">
-        <img align="center" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div><br/>
+Com esse objetivo resolvi atualizar meu perfil e remover todos os projetos/repositórios, deixando apenas documentações relacionadas à infraestrutura de redes de forma privada.Quero desenvolver novos projetos partindo do zero, que sejam mais usuais e completos, por esse motivo irei postar apenas projetos finalizados e pronto para uso.Meu foco será em tecnologias básicas e projetos de simples entendimento.<br/>
 
+#### Tecnologias que estou estudando atualmente:
 
-### Tecnologias que estou aprendendo 🌱
-<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+- Primeiro passo: HTML5, CSS3, JavaScript e PostgreSQL;
+- Segundo passo: Node.js, React, MongoDB e Tailwind CSS.
+
+#### Material utilizado para estudo:
+
+- HTML e CSS: projete e construa websites;
+- Javascript e Jquery: desenvolvimento de interfaces web interativas;
+- Estruturas de Dados e Algoritmos com JavaScript: Escreva um Código JavaScript Complexo e Eficaz Usando a Mais Recente ECMAScript;
+- Código limpo: Habilidades práticas do Agile Software;
+- Arquitetura limpa: O guia do artesão para estrutura e design de software.
+
+#### Como entrar em contato comigo:
+
+E-mail: jodair.neves@gmail.com<br/>
+LinkedIn: https://www.linkedin.com/in/jodair-neves-55268017b

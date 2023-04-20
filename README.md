@@ -2,7 +2,9 @@
 
 Eu sou Jodair, Analista de Infraestrutura e estou reaprendendo a programar com a finalidade de me tornar um desenvolvedor Full-Stack e migrar para a área de programação.<br/>
 
-Com esse objetivo resolvi atualizar meu perfil e remover todos os projetos/repositórios, deixando apenas documentações relacionadas à infraestrutura de redes de forma privada.Quero desenvolver novos projetos partindo do zero, que sejam mais usuais e completos, por esse motivo irei postar apenas projetos finalizados e pronto para uso.Meu foco será em tecnologias básicas e projetos de simples entendimento.<br/>
+Com esse objetivo resolvi atualizar meu perfil e remover todos os projetos/repositórios, deixando apenas documentações relacionadas à infraestrutura de redes de forma privada.<br/>
+Quero desenvolver novos projetos partindo do zero, que sejam mais usuais e completos, por esse motivo irei postar apenas projetos finalizados e pronto para uso.<br/>
+Meu foco será em tecnologias básicas e projetos de simples entendimento.<br/>
 
 #### Tecnologias que estou estudando atualmente:
 
